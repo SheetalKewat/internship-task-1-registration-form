@@ -1,7 +1,7 @@
 # Internship Task 1 - Registration Form
 
 This repository contains the first internship task:  
-A **modern student registration form** built with **HTML & CSS**.
+A **student registration form** built with **HTML & CSS**.
 
 ---
 
